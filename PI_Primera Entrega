@@ -1,0 +1,43 @@
+---
+title: <center>###Primera Entrega del Trabajo de Campo
+output: html_document
+---
+####Integrantes:
+
+Gabriel Loayza Pretel (Lider)  
+Fabio Carrillo Ramirez    
+Joel Vilca PeÃ±a  
+Alexander Huayhua PÃ©rez  
+###Introducción:
+
+###1.Objetivos:
+
+####Objetivo General
+El objetivo general de nuestro proyecto en el curso de Estadistica y Probabilidades es analizar los altos Ã­ndices de la Tuberculosis en las regiones de Lima, JunÃ­n y Loreto, mediante el cual se informarÃ¡ sobre cÃ³mo combatir de manera eficaz a dicha enfermedad, y con ello, obtener un menor Ã­ndice de casos con Tuberculosis.
+
+####Objetivo EspecÃ­fico
+
+Este proyecto tratarÃ¡ de organizar y colaborar eficazmente a la soluciÃ³n de los altos Ã­ndices de Tuberculosis en las regiones dichas anteriormente, como optimizar el tiempo de trabajo en el campo exploratorio mediante un compare y contraste de cada regiÃ³n, ayudando de la manera mÃ¡s equitativa posible.
+###2. Población Objetivo
+###3. Unidades Muestrales
+###2.ClasificaciÃ³n de las variables
+- **Variable CatÃ©gorica Nominal**:
+    Sexo, RegiÃ³n.
+- **Variable CategÃ³rica Ordinal**:
+    Grado escolar, infraestructura escolar(escuela pÃºblica o privada).
+- **Variable numÃ©rica continua**:
+    Edad.
+- **Variable numÃ©rica discreta**:
+    NÃºmero de alumnos afectados por tuberculosis en Lima, JunÃ­n y Loreto.	
+
+###3. Diagrama de Gantt
+<center>![Gantt Del Proyecto](anexos/Gantt.png)</center>
+<center> *Nota: fechas supuestas de entregas frente debido al desconocimiento de estas.)*
+
+###4. JustificaciÃ³n del Tema
+
+La tuberculosis es una enfermedad con gran impacto social dentro del PerÃº y en el mundo, llegando a ser prioridad para la OMS llegando a elaborar la estrategia "Fin de la Tuberculosis" cuyas metas al 2035 (AlarcÃ³n, AlarcÃ³n, Figueroa, & Mendoza, 2017). Los mÃ¡s afectados de esa enfermedad son los niÃ±os. A menudo ellos empiezan a tener mÃ¡s riesgos de contraer enfermedades cuando se empiezan a exponer cuando ingresan a la educaciÃ³n primaria por primera vez al tener contacto con mÃ¡s personas. Este proyecto se basa en analizar datos brindados del INEI  aÃ±o de una base de datos de 19670 niÃ±os en todo el PerÃº durante los aÃ±os 2011-2012. Con ellos se obtendrÃ¡ el riesgo y prevalencia de infecciÃ³n de tuberculosis de los niÃ±os de primer aÃ±o de primaria en regiones Lima, JunÃ­n y Loreto. A diferencia con la investigaciÃ³n de âRiesgo de InfecciÃ³n por Tuberculosis en NiÃ±as y NiÃ±os de 6 y 7 aÃ±os de edadâ hecho por la INEI en el 2013, el cual a sido realizado a nivel nacional en todos los departamentos, nuestra investigaciÃ³n serÃ¡ dirigida a 3 regiones especÃ­ficas para un anÃ¡lisis mÃ¡s exhaustivo de estas regiones tomando en cuenta sus contextos propios ademÃ¡s de realizar mÃ¡s pruebas de regresiÃ³n para relacionar los datos. A comparaciÃ³n con los anÃ¡lisis que son descriptivos de la INEI, dentro de este proyecto se harÃ¡ tambiÃ©n un anÃ¡lisis inferencial.
+
+###5. Bibliografia
+- AlarcÃ³n, V., AlarcÃ³n, E., Figueroa, C., & Mendoza, A. (2017). Tuberculosis en el PerÃº: situaciÃ³n epidemiolÃ³gica, avances y desafÃ­os para su control. Obtenido de Peruvian  Journal of Experimental Medicine and Public Health: https://rpmesp.ins.gob.pe/index.php/rpmesp/article/view/2384/2777
+- Instituto Nacional de EstadÃ­stica e InformÃ¡tica. (2013). Riesgo de InfecciÃ³n por. Lima: Instituto Nacional de EstadÃ­stica e InformÃ¡tica.
